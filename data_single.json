@@ -1,0 +1,9 @@
+{
+    "name": "Heidelberg University Hospital",
+    "emergencies": ["cardiac arrest", "stroke", "trauma"],
+    "location": {
+      "type": "Point",
+      "coordinates": [8.672434, 49.411749]
+    }
+  }
+  

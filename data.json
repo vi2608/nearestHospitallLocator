@@ -1,0 +1,35 @@
+[
+    {
+      "name": "Heidelberg University Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [8.6724, 49.4084]
+      },
+      "emergencies": ["Cardiology", "Neurology", "Oncology", "Pediatrics"]
+    },
+    {
+      "name": "Klinikum Mannheim",
+      "location": {
+        "type": "Point",
+        "coordinates": [8.4741, 49.4783]
+      },
+      "emergencies": ["Cardiology", "Gynecology", "Neurology", "Oncology"]
+    },
+    {
+      "name": "Diakonissen-Stiftungs-Krankenhaus Speyer",
+      "location": {
+        "type": "Point",
+        "coordinates": [8.4369, 49.3155]
+      },
+      "emergencies": ["Gastroenterology", "Oncology", "Orthopedics", "Surgery"]
+    },
+    {
+      "name": "Universitätsklinikum Mannheim",
+      "location": {
+        "type": "Point",
+        "coordinates": [8.4623, 49.4795]
+      },
+      "emergencies": ["Cardiology", "Neurology", "Oncology", "Pediatrics"]
+    }
+  ]
+  
